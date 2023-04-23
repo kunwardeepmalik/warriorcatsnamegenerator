@@ -1,0 +1,100 @@
+header {
+    background-image: linear-gradient(135deg, #000000 10%, #3813c2 100%);
+    width: 100%;
+    padding: 1% 0 1%;
+    color: #ffffff;
+    text-align: center;
+}
+.logo a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.name p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+a {
+    text-decoration: none;
+    color: #db7093;
+}
+a:hover {
+    color: #d3d0d0;
+}
+.menu {
+    background: #fff;
+    margin: 3% 0 0 0;
+}
+i {
+    display: none;
+}
+.jumbotron {
+    text-align: center;
+    padding: 2% 20%;
+    margin: 0 0;
+    background: #ded4db;
+}
+.jumbotron h3 {
+    color: #c855d2;
+    background: #fff;
+    padding: 40px 0;
+}
+.name {
+    background: #fff;
+    padding: 15px;
+}
+.main-button {
+    background: #0400ff;
+    color: #fff;
+    margin-top: 30px;
+}
+.btn:hover {
+    color: #b5b0b0;
+    text-decoration: none;
+}
+.span {
+    color: #000;
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: 700;
+}
+footer {
+    background-image: linear-gradient(135deg, #000000 10%, #3813c2 100%);
+}
+footer a {
+    color: #fff;
+}
+.footer-copyright {
+    color: #fff;
+}
+@media screen and (max-width: 580px) {
+    nav ul {
+        max-height: 0;
+    }
+}
+@media screen and (max-width: 580px) {
+    nav ul li {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 15px;
+        text-align: left;
+    }
+}
+@media screen and (max-width: 580px) {
+    .handle {
+        display: block;
+    }
+}
+@media screen and (max-width: 580px) {
+    i {
+        display: block;
+    }
+}
+.blog {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.card-deck {
+    margin-bottom: 20px;
+}
