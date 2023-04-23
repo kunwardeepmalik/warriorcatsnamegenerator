@@ -1,1 +1,1 @@
-# warriorcatsnamegenerator
+# warriorcatsnamegenerator.com
